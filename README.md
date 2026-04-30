@@ -30,8 +30,6 @@ Skilled in building responsive frontend and scalable backend applications using 
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/00shamima/00shamima/output/github-contribution-grid-snake.svg)
 
 ---
 

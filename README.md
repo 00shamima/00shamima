@@ -59,19 +59,6 @@ Skilled in building responsive frontend and scalable backend applications using 
 
 
 
-
-## 💼 Experience
-
-**Full Stack Developer Intern**  
-I-BACUS-TECH Solutions Pvt. Ltd  
-
-- Built responsive UI using React.js  
-- Developed APIs using Node.js & Express.js  
-- Worked with MongoDB  
-- Integrated frontend & backend  
-
----
-
 ## 📫 Connect with Me
 
 📧 shamima2802@gmail.com  
